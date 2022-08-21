@@ -1,8 +1,6 @@
-# write code in english
 # make a bank account class containing the following attributes:
 # creating an account, depositing, withdrawing, closing an account, and commission fee.
 # The commission fee is 0.1% of the amount deposited.
-# Run it as main function.
 
 class BankAccount:
     def __init__(self):
